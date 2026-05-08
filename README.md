@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=comic+sans&size=40&duration=1000&pause=1000&color=494CFF&width=600&lines=Halo,+Saya+Putra+👋;Mochamad+Putra+Nurhadi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=comic+sans&size=40&duration=1000&pause=1000&color=494CFF&width=600&lines=Halo,+Saya+Putra+%F0%9F%91%8B;Mochamad+Putra+Nurhadi" alt="Typing SVG" />
 </p>
 
 ### Mahasiswa Teknik Informatika | Data Analyst & AI Enthusiast
@@ -23,9 +23,10 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
+
 ---
 
 ### Mari Terkoneksi!
 - **LinkedIn:** [https://www.linkedin.com/in/putra-nurhadi/](https://www.linkedin.com/in/putra-nurhadi/)
-- **Email:** putranurhadi123@gmail.com
-- **Website:** mochputra.vercel.app
+- **Email:** [putranurhadi123@gmail.com](mailto:putranurhadi123@gmail.com)
+- **Website:** [mochputra.vercel.app](https://mochputra.vercel.app)
