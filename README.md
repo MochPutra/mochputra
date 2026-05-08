@@ -1,13 +1,8 @@
-# Halo, saya Mochamad Putra Nurhadi 👋
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=comic+sans&size=40&duration=1000&pause=1000&color=494CFF&width=600&lines=Halo,+Saya+Putra+👋;Mochamad+Putra+Nurhadi" alt="Typing SVG" />
+</p>
 
 ### Mahasiswa Teknik Informatika | Data Analyst & AI Enthusiast
-
----
-
-### 🚀 Fokus & Minat
-- **Data Analytics:** Mengubah data mentah menjadi wawasan strategis menggunakan Python dan R.
-- **AI & Automation:** Eksplorasi implementasi Large Language Models (LLMs) dan otomatisasi alur kerja.
-- **Software Engineering:** Pengembangan sistem manajemen bisnis yang efisien.
 
 ---
 
@@ -27,10 +22,10 @@
   <!-- Database & Data Science -->
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 ---
 
 ### Mari Terkoneksi!
 - **LinkedIn:** [https://www.linkedin.com/in/putra-nurhadi/](https://www.linkedin.com/in/putra-nurhadi/)
 - **Email:** putranurhadi123@gmail.com
+- **Website:** mochputra.vercel.app
