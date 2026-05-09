@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=comic+sans&size=40&duration=1000&pause=1000&color=494CFF&width=600&lines=Halo,+Saya+Putra+%F0%9F%91%8B;Mochamad+Putra+Nurhadi" alt="Typing SVG" />
 </p>
 
-### Mahasiswa Teknik Informatika | Data Analyst & AI Enthusiast
+### Mahasiswa Teknik Informatika | Junior Developer
 
 ---
 
